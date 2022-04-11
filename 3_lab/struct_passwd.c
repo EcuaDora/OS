@@ -1,3 +1,4 @@
+/**использую эту структуру как индивидуальное задание**/
 #define _POSIX_SOURCE
 #include <cstdio>
 #include <pwd.h>
